@@ -13,6 +13,11 @@
 **Ator:** Funcionário da academia </br>
 **Descrição:** O funcionário cadastra os planos no sistema, inserindo informações como nome, descrição, valor, ...
 
+## Cadastrar Funcionários
+
+**Ator:** Administrador da academia </br>
+**Descrição:** O administrador cadastra novos funcionários no sistema, inserindo informações como nome, cpf, salário, etc..
+
 ## Gerenciar Finanças
 
 **Ator:** Administrador ou contador </br>
